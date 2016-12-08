@@ -1,0 +1,28 @@
+{
+  "name": "ph-martins",
+  "description": "Entusiasta em desenvolvimento Front-End. | Wordpress, Bootstrap 3 e 4 com Sass, GulpJS, Bower, GIT, jQuery e AngularJS",
+  "keywords": [
+    "phillipe",
+    "martins",
+    "front-end",
+    "cariri",
+    "cariri",
+    "front-end",
+    "bootstrap",
+    "developer",
+    "jquery"
+  ],
+  "authors": [
+    "Phillipe Martins"
+  ],
+  "license": "MIT",
+  "homepage": "http://phmartins.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+  ],
+  "dependencies": {
+    "phillipe": "C:\\Users\\Phillipe\\Downloads\\github\\phillipe\bower_components"
+  }
+}
