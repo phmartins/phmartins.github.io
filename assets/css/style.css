@@ -3,11 +3,7 @@
 /* THEME: Phillipe Martins - Front-End Developer
    VERSÃO: 1.0
    AUTOR: Phillipe Martins
-<<<<<<< HEAD
    AGENCIA: YEAH! - COMUNICAÇÃO DIGITAL
-=======
-   AGÊNCIA: YEAH! - COMUNICAÇÃO DIGITAL
->>>>>>> origin/master
 */
 
 @import "https://fonts.googleapis.com/css?family=Open+Sans:400,300";
@@ -661,8 +657,6 @@ body.light a.into-page-button:hover {
 .into-page-content--hide .into-page-button {
     -webkit-transform: scale(0) !important;
     transform: scale(0) !important
-<<<<<<< HEAD
 }
-=======
 }
->>>>>>> origin/master
+
